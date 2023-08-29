@@ -1,0 +1,3 @@
+/home/max/NTLGY_Home/assignment3.2/assignment3.2_2_folder/build-assignment_3_2__2-Desktop-Debug/CMakeFiles/assignment_3_2__2.dir
+/home/max/NTLGY_Home/assignment3.2/assignment3.2_2_folder/build-assignment_3_2__2-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/max/NTLGY_Home/assignment3.2/assignment3.2_2_folder/build-assignment_3_2__2-Desktop-Debug/CMakeFiles/rebuild_cache.dir
